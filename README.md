@@ -19,7 +19,7 @@ A data.frame with 238 rows and the following variables:
 * prison - prison record?
 * dose - methodone dose (mg/day)
 
-### Baldder Cancer Data set
+### Bladder Cancer Data set
 
 A data.frame with 191 rows and the following variables:
 
