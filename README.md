@@ -33,7 +33,7 @@ A data.frame with 191 rows and the following variables:
 * num
 * size
 
-## Analysis Performed
+## Analyses Performed
 
 1. Survival Analysis loading data sets
 2. Summary Statistics for Addicts data
